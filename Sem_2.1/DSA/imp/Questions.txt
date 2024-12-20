@@ -1,0 +1,12 @@
+Questions
+------------------------------------
+
+1. write  program to find address of kth node from the last in single linked list.
+2. write  program to move the last node of single linked list to 1st position.
+3. write a program to find address of middle node in single linked list.
+4. write a program to detect cycle in single linked list
+5, write  a program to find address of 1st intersecting node in single linked list with which other single linked list is attached.
+6. write a program to merge 2 sorted single linked lists
+7. write  program for binary search in single linked list
+8. write  program to add a node with data x at end of circular double linked list
+9. write  program to implement multiple stacks using single array
